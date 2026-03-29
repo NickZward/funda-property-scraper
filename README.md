@@ -1,6 +1,6 @@
 # Funda Property Scraper
 
-A Python + Selenium scraper for [Funda.nl](https://www.funda.nl) — the largest Dutch property platform. Extracts all available listings from any Dutch city and outputs a structured Excel file plus an interactive Leaflet map.
+A Python + Selenium scraper for [Funda.nl](https://www.funda.nl), the largest Dutch property platform. Extracts all available listings from any Dutch city and outputs a structured Excel file plus an interactive Leaflet map.
 
 ![Map Output](Output.png)
 
